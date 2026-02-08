@@ -1,0 +1,8 @@
+streamlit
+groq
+gtts
+PyPDF2
+python-docx
+reportlab
+fastapi
+uvicorn

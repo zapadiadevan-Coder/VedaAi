@@ -1,0 +1,6 @@
+__pycache__/
+.env
+media/
+*.mp3
+*.pdf
+.streamlit/
